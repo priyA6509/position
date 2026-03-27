@@ -1,0 +1,13 @@
+.new{
+    height: 1000px;
+    width: 1000px;
+     /* background-color: pink;  */
+    background-image:url(image.png) ;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed; 
+
+}
+   
+

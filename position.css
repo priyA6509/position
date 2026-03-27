@@ -1,0 +1,43 @@
+.parent{
+    height: 100px;
+    width: 100px;
+    /* background-color:red; */
+    border-radius: 60px;
+     position: absolute;
+     border: 10px solid black;
+     
+
+
+     
+
+}
+.child{
+    height: 100px;
+    width: 100px;
+    /* background-color:black; */
+    border-radius: 60px;
+    position: absolute;
+    border: 10px solid black;
+    left: 80px;
+
+}
+.new{
+     height: 100px;
+    width: 100px;
+    /* background-color: black; */
+    border-radius: 60px;
+     position: absolute;
+     border: 10px solid black;
+     left: 150px;
+     
+}
+.push{
+    height: 100px;
+    width: 100px;
+    /* background-color:black; */
+    border-radius: 60px;
+     position: absolute;
+     border: 10px solid black;
+     left: 220px;
+     
+}

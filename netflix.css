@@ -1,0 +1,18 @@
+.new{
+    color: red;
+}
+.logo{
+    background-color: red;
+    position: absolute;
+    left: 1000px;
+
+}
+.lang{
+    
+    left:500px;
+}
+.email{
+    height: 100px;
+    width: 100px;
+
+}
